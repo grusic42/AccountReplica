@@ -1,0 +1,5 @@
+deposit 40
+addInterest 20
+getHistory
+deposit 80
+balance
